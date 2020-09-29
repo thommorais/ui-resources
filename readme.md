@@ -3,7 +3,7 @@
  - https://tablericons.com/ 
  - https://teenyicons.com/
  - https://heroicons.dev/
-
+ - https://feathericons.com/
 
 **Illustrations**
 
